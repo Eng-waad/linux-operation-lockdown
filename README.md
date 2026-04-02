@@ -1,8 +1,8 @@
-# Linux Operation Lockdown – Security & Permissions Lab
+# Linux Operation Lockdown – Security & Permissions 
 
 ## Scenario
 
-This lab simulates a real-world security incident at a fictional company (TechNova Corp), where a shared admin account was used to access and destroy the staging environment.
+This project simulates a real-world security incident at a fictional company (TechNova Corp), where a shared admin account was used to access and destroy the staging environment.
 
 Due to poor access control and 777 permissions, the team could not identify who executed the destructive command.
 
